@@ -5,6 +5,7 @@ HOW TO USE
 # login.feature for Cucumber feature.
 # using loginpage.java for pageReferences.
 # loginsteps_POM.java for Page object models.
-# TestRunner for glueCode
-# pom.xml file for maven dependencies
+# TestRunner for glueCode.
+# pom.xml file for maven dependencies.
+# Running project video is also attached.
 
